@@ -1,5 +1,5 @@
 # Hey there 👋
-### This is Arshpreet :smile:
+### <img src="https://thumbs.gfycat.com/DeafeningShinyBeagle-size_restricted.gif" width="50"> This is Arshpreet :smile:
 I am a Student perusing 2<sup>nd</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://youtu.be/SyiRqWvb5NQ" target="_blank">Anime Hardstyle</a> while coding.
 <br>
 <br>
