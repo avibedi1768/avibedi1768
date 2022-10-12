@@ -17,7 +17,8 @@ I am a Student perusing 2<sup>nd</sup> year in B-Tech Computer Science Engineeri
 - ⚡ Fun fact: Workut to get Fit :muscle:
 - 🌐 <a href="https://avibedi1768.github.io">View my personal website</a>
 
-<img align="right" width="150" height="150" src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif"></a>
+<div align="center"/>
+<img width="150" height="150" src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif"></a> </div> <br/>
 <hr>
 <h2 align="center">Languages and Tools: ⚙ </h2>
 <div align="center">
@@ -29,21 +30,22 @@ I am a Student perusing 2<sup>nd</sup> year in B-Tech Computer Science Engineeri
 <a href="https://www.w3schools.com/css/"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></a> 
 <a href="https://git-scm.com/downloads"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></a>
 <br>
-  <a href="https://code.visualstudio.com/download" target="_blank"><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"></a>
+<a href="https://code.visualstudio.com/download" target="_blank"><img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue"></a>
 <a href="https://www.canva.com/en_in/download/windows/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a>
 <a href="https://www.figma.com/downloads/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 <a href="https://firebase.google.com/?gclid=Cj0KCQjwy5maBhDdARIsAMxrkw130W09C2pR1ARmEi498vFtVPAQnM9SKPyETlABy5UXXr6RFlF8rb0aAr9XEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
 </div>
 <br/>
 <br/>
-
-### Want to see me?! ☻
-<a href="https://twitter.com/avibedi1768" target="_blank" rel="nofollow"><img align="left" alt="Arshpreet's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="https://www.linkedin.com/in/arshpreetsinghbedi" target="_blank" rel="nofollow"><img align="left" alt="Arshpreet's Linkdein" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/avi_bedi1768" target="_blank" rel="nofollow"><img align="left" alt="Arshpreet's Insta" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+<div align="center"/>
+<h2>Want to chat?! ☻</h2>
+<a href="https://twitter.com/avibedi1768" target="_blank" rel="nofollow"><img align="center" alt="Arshpreet's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a> &nbsp &nbsp <a href="https://www.linkedin.com/in/arshpreetsinghbedi" target="_blank" rel="nofollow"><img align="center" alt="Arshpreet's Linkdein" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /> &nbsp &nbsp </a><a href="https://www.instagram.com/avi_bedi1768" target="_blank" rel="nofollow"><img align="center" alt="Arshpreet's Insta" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
+</div>
 <br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=avibedi1768&show_icons=true&include_all_commits=true&theme=radical" alt="Arsh's github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avibedi1768&layout=compact&theme=radical" />
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avibedi1768&theme=github_dark)
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=avibedi1768&show_icons=true&count_private=true" alt="avibedi1768" /> -->
+<div align="center"/>
+<h2>My GitHub stats 🌟 </h2>
+<img src="https://github-readme-stats.vercel.app/api?username=avibedi1768&show_icons=true&count_private=true" alt="avibedi1768" width=400px height=150px/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avibedi1768&layout=compact&theme=radical" width=400px height=150px/> <br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avibedi1768&theme=github_dark" width=600px/> <br/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=avibedi1768&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width=400px/>
+</div>
