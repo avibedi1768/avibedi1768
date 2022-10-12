@@ -13,12 +13,12 @@ I am a Student perusing 2<sup>nd</sup> year in B-Tech Computer Science Engineeri
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about Web Dev, Design, Content Creation 
-- 😄 My pronouns are He, not Him cuz I'll never be him 😂
+- 😄 My pronouns are He, not Him cuz I'll never be Him 😂
 - ⚡ Fun fact: Workut to get Fit :muscle:
 - 🌐 <a href="https://avibedi1768.github.io">View my personal website</a>
 
 <div align="center"/>
-<img width="150" height="150" src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif"></a> </div> <br/>
+<img width="240" height="145" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3f7d9121-13fc-4486-91f8-b81de856c243/dedzs6j-3f11e3ca-2be4-4590-84b2-25cfbe04f9fb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNmN2Q5MTIxLTEzZmMtNDQ4Ni05MWY4LWI4MWRlODU2YzI0M1wvZGVkenM2ai0zZjExZTNjYS0yYmU0LTQ1OTAtODRiMi0yNWNmYmUwNGY5ZmIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.n8FnI6sWQHm97vkmDIfUUfOLTwNeObb-48904rUtHz0"></a> </div> <br/>
 <hr>
 <h2 align="center">Languages and Tools: ⚙ </h2>
 <div align="center">
