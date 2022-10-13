@@ -35,21 +35,17 @@ I am a Student perusing 2<sup>nd</sup> year in B-Tech Computer Science Engineeri
 <a href="https://www.figma.com/downloads/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 <a href="https://firebase.google.com/?gclid=Cj0KCQjwy5maBhDdARIsAMxrkw130W09C2pR1ARmEi498vFtVPAQnM9SKPyETlABy5UXXr6RFlF8rb0aAr9XEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
 <h3 align="left">If you are not sure what the above tools are or how they work, just click on the one which interests you. There is a surprise for y'all!</h3>
-</div>
 <br/>
 <br/>
-<div align="center"/>
 <h2>Want to chat?! ☻</h2>
 <a href="https://twitter.com/avibedi1768" target="_blank" rel="nofollow"><img align="center" alt="Arshpreet's Twitter" width="30px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a> &nbsp &nbsp <a href="https://www.linkedin.com/in/arshpreetsinghbedi" target="_blank" rel="nofollow"><img align="center" alt="Arshpreet's Linkdein" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /> &nbsp &nbsp </a><a href="https://www.instagram.com/avi_bedi1768" target="_blank" rel="nofollow"><img align="center" alt="Arshpreet's Insta" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
-</div>
-<br>
-<div align="center"/>
+<br/>
 <h2>My GitHub stats 🌟 </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=avibedi1768&show_icons=true&count_private=true" alt="avibedi1768" width=400px height=150px/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avibedi1768&layout=compact&theme=radical" width=400px height=150px/> <br/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=avibedi1768&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width=400px/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avibedi1768&theme=github_dark" width=600px/> <br/>
-</div>
-### snake 🐍 thing:
+<h3 align="left">Bored snake 🐍 having my contributions for lunch </h3>
 <br/>
-![snake gif](https://github.com/avibedi1768/avibedi1768/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/avibedi1768/avibedi1768/blob/output/github-contribution-grid-snake.gif"/>
+</div>
