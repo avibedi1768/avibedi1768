@@ -34,6 +34,7 @@ I am a Student perusing 2<sup>nd</sup> year in B-Tech Computer Science Engineeri
 <a href="https://www.canva.com/en_in/download/windows/"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a>
 <a href="https://www.figma.com/downloads/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 <a href="https://firebase.google.com/?gclid=Cj0KCQjwy5maBhDdARIsAMxrkw130W09C2pR1ARmEi498vFtVPAQnM9SKPyETlABy5UXXr6RFlF8rb0aAr9XEALw_wcB&gclsrc=aw.ds"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+<h3 align="left">If you are not sure what the above tools are or how they work, just click on the one which interests you. There is a surprise for y'all!</h3>
 </div>
 <br/>
 <br/>
