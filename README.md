@@ -47,6 +47,6 @@ I am a Student perusing 2<sup>nd</sup> year in B-Tech Computer Science Engineeri
 <h2>My GitHub stats 🌟 </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=avibedi1768&show_icons=true&count_private=true" alt="avibedi1768" width=400px height=150px/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avibedi1768&layout=compact&theme=radical" width=400px height=150px/> <br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avibedi1768&theme=github_dark" width=600px/> <br/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=avibedi1768&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width=400px/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avibedi1768&theme=github_dark" width=600px/> <br/>
 </div>
