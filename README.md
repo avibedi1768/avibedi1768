@@ -50,3 +50,5 @@ I am a Student perusing 2<sup>nd</sup> year in B-Tech Computer Science Engineeri
 <img src="http://github-readme-streak-stats.herokuapp.com?user=avibedi1768&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width=400px/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avibedi1768&theme=github_dark" width=600px/> <br/>
 </div>
+### snake 🐍 thing:
+![snake gif](https://github.com/avibedi1768/avibedi1768/blob/output/github-contribution-grid-snake.gif)
