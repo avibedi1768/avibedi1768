@@ -1,10 +1,23 @@
 # Hey there 👋
-### <img src="https://thumbs.gfycat.com/DeafeningShinyBeagle-size_restricted.gif" width="50"> This is Arshpreet :smile:
-I am a Student perusing 3<sup>rd</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://youtu.be/SyiRqWvb5NQ" target="_blank">Anime Hardstyle</a> while coding.
+<img src="https://i.gifer.com/Y3in.gif" width="50"/> <h3>This is Arshpreet :smile: </h3>
+I am a Student persuing 3<sup>rd</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://youtu.be/SyiRqWvb5NQ" target="_blank">Anime Hardstyle</a> while coding.
+
+# Here are some of my projects:
+### For Graphics:
+<a href="https://avibedi1768.github.io/LetsDoIt/gsap/index.html">skyra</a> - Animations<br/>
+<a href="https://www.skyraofficial.com/">skyra</a> - Coming Soon<br/>
+<a href="https://avibedi1768.github.io/LetsDoIt/skylight/index.html">skylight</a> - Product-based<br/>
+
+### For Backend (Database)
+<a href="https://askmeout.vercel.app/signup">askmeout</a> - React app with firebase as database - based on NGL (fun app)<br/>
+<a href="https://link-house.vercel.app/signup">linkhouse</a> - React app with firebase as database - based on LinkTree<br/>
+<a href="https://avibedi1768.github.io/to-do/">todo</a> - html, css, js website with local storage as database<br/>
+<a href="https://avibedi1768.github.io/basicCardGenerator/index_auth">card generator</a> - html, css, js website with firebase - generates your card based on input information<br/>
+
 <br>
 <br>
 <p align="center">
-<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="450"/>
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350"/>
 </p>
 <br>
 
@@ -47,7 +60,7 @@ I am a Student perusing 3<sup>rd</sup> year in B-Tech Computer Science Engineeri
 <img src="http://github-readme-streak-stats.herokuapp.com?user=avibedi1768&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width=400px/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avibedi1768&theme=github_dark" width=600px/> <br/>
 
-##Profile Views
+<h2>Profile Views</h2>
 <img src="https://profile-counter.glitch.me/avibedi1768/count.svg/">
 
 <!-- <h3 align="left">Bored snake 🐍 having my contributions for lunch </h3>
