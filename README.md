@@ -19,6 +19,8 @@ I am a Student persuing 3<sup>rd</sup> year in B-Tech Computer Science Engineeri
 <a href="https://www.thejourneyimmigrationservices.com/">The Journey Immgigration Services</a><br/>
 <a href="https://avibedi1768.github.io/projects/project1/index.html">Jannat Food & Bar</a><br/>
 
+### Others:
+<a href="https://codewars.gndu.one/">CodeWars</a> - Hackathon Website<br/>
 <br>
 <br>
 <p align="center">
