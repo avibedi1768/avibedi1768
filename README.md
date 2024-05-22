@@ -14,6 +14,11 @@ I am a Student persuing 3<sup>rd</sup> year in B-Tech Computer Science Engineeri
 <a href="https://avibedi1768.github.io/to-do/">todo</a> - html, css, js website with local storage as database<br/>
 <a href="https://avibedi1768.github.io/basicCardGenerator/index_auth">card generator</a> - html, css, js website with firebase - generates your card based on input information<br/>
 
+### Freelancing Projects:
+<a href="https://daanapaanirestaurant.com/">Daana Paani</a> - Restaurant<br/>
+<a href="https://www.thejourneyimmigrationservices.com/">The Journey Immgigration Services</a><br/>
+<a href="https://avibedi1768.github.io/projects/project1/index.html">Jannat Food & Bar</a><br/>
+
 <br>
 <br>
 <p align="center">
