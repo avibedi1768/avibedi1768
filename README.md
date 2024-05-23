@@ -21,7 +21,10 @@ I am a Student persuing 3<sup>rd</sup> year in B-Tech Computer Science Engineeri
 
 ### Others:
 <a href="https://code-wars-gamma.vercel.app/">CodeWars</a> - Hackathon Website<br/>
-<br>
+
+## One of my favorite works:
+https://github.com/avibedi1768/avibedi1768/assets/98729456/a6e6dc40-0eaf-480c-93eb-2ac02ca3f366
+
 <br>
 <p align="center">
 <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350"/>
