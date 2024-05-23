@@ -2,6 +2,13 @@
 <img src="https://i.gifer.com/Y3in.gif" width="50"/> <h3>This is Arshpreet :smile: </h3>
 I am a Student persuing 3<sup>rd</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://www.youtube.com/watch?v=qU9mHegkTc4" target="_blank">Chill Music</a> while coding.
 
+<a href="https://raw.githubusercontent.com/avibedi1768/avibedi1768/main/video.mp4">
+  <img src="https://raw.githubusercontent.com/avibedi1768/avibedi1768/main/thumbnail.png" alt="Watch the video" style="width: 500px;">
+</a>
+
+[![Watch the video](https://raw.githubusercontent.com/avibedi1768/avibedi1768/main/thumbnail.png)](https://raw.githubusercontent.com/avibedi1768/avibedi1768/main/video.mp4)
+
+
 # Here are some of my projects:
 ### For Graphics:
 <a href="https://avibedi1768.github.io/LetsDoIt/gsap/index.html">skyra</a> - Animations<br/>
