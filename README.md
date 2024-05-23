@@ -1,12 +1,12 @@
 # Hey there 👋
 <img src="https://i.gifer.com/Y3in.gif" width="50"/> <h3>This is Arshpreet :smile: </h3>
-I am a Student persuing 3<sup>rd</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://youtu.be/SyiRqWvb5NQ" target="_blank">Anime Hardstyle</a> while coding.
+I am a Student persuing 3<sup>rd</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://www.youtube.com/watch?v=qU9mHegkTc4" target="_blank">Chill Music</a> while coding.
 
 # Here are some of my projects:
 ### For Graphics:
 <a href="https://avibedi1768.github.io/LetsDoIt/gsap/index.html">skyra</a> - Animations<br/>
-<a href="https://www.skyraofficial.com/">skyra</a> - Coming Soon<br/>
-<a href="https://avibedi1768.github.io/LetsDoIt/skylight/index.html">skylight</a> - Product-based<br/>
+<a href="https://skyra-official-github-io.vercel.app/">skyra</a> - Coming Soon<br/>
+<a href="https://skylight-skyras-projects.vercel.app/">skylight</a> - Product-based<br/>
 
 ### For Backend (Database)
 <a href="https://askmeout.vercel.app/signup">askmeout</a> - React app with firebase as database - based on NGL (fun app)<br/>
@@ -17,10 +17,10 @@ I am a Student persuing 3<sup>rd</sup> year in B-Tech Computer Science Engineeri
 ### Freelancing Projects:
 <a href="https://daanapaanirestaurant.com/">Daana Paani</a> - Restaurant<br/>
 <a href="https://www.thejourneyimmigrationservices.com/">The Journey Immgigration Services</a><br/>
-<a href="https://avibedi1768.github.io/projects/project1/index.html">Jannat Food & Bar</a><br/>
+<a href="https://website-client-arsh.vercel.app/">Jannat Food & Bar</a><br/>
 
 ### Others:
-<a href="https://codewars.gndu.one/">CodeWars</a> - Hackathon Website<br/>
+<a href="https://code-wars-gamma.vercel.app/">CodeWars</a> - Hackathon Website<br/>
 <br>
 <br>
 <p align="center">
