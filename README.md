@@ -1,6 +1,6 @@
 # Hey there 👋
 <img src="https://i.gifer.com/Y3in.gif" width="50"/> <h3>This is Arshpreet :smile: </h3>
-I am a Student persuing 3<sup>rd</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://www.youtube.com/watch?v=qU9mHegkTc4" target="_blank">Chill Music</a> while coding.
+I am a Student persuing 4<sup>th</sup> year in B-Tech Computer Science Engineering, who likes to listen to <a href="https://www.youtube.com/watch?v=qU9mHegkTc4" target="_blank">Chill Music</a> while coding.
 
 # Here are some of my projects:
 ### For Graphics:
